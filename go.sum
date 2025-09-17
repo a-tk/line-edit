@@ -1,0 +1,3 @@
+github.com/a-tk/go-datastructures v0.0.1 h1:Q72pHNo6CCgb2hnoPd0az6NeP9l5TY7OlOJj2Bj00mo=
+github.com/a-tk/go-datastructures v0.0.1/go.mod h1:3x/DzZBT9VzL8aMQwfdTgL1AI//zsFp55aIDtHq6Ayo=
+golang.org/x/term v0.35.0/go.mod h1:TPGtkTLesOwf2DE8CgVYiZinHAOuy5AYUYT1lENIZnA=
